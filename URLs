@@ -1,0 +1,14 @@
+# # 14/SEP/2021
+
+# URLS: Links
+  https (o ssh, ftp,sftp..) = Protocolo que está utilizando el servicio de Internet
+  // = Separa el protocolo de la dirección
+  Dirección: Compuesta por dominio y estructura de carpetas
+      El dominio sería p.ej uc3m.es
+       Dominios de primer nivel: TLD (.net,.edu,.com,.mil, etc.)
+       Dominios nacionales
+      Estructura de carpetas: Dividida por //
+      Carpetas
+# Local host: Cada ordenador
+ 
+      

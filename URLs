@@ -1,6 +1,6 @@
-# # 14/SEP/2021
+##14/SEP/2021
 
-# URLS: Links
+#URLS: Links
   https (o ssh, ftp,sftp..) = Protocolo que está utilizando el servicio de Internet
   // = Separa el protocolo de la dirección
   Dirección: Compuesta por dominio y estructura de carpetas
@@ -9,6 +9,6 @@
        Dominios nacionales
       Estructura de carpetas: Dividida por //
       Carpetas
-# Local host: Cada ordenador
+#Local host: Cada ordenador
  
       
